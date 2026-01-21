@@ -2,7 +2,8 @@
 This repository contains a complete data analysis project based on the AdventureWorks sample dataset. The project focuses on transforming raw business data into meaningful insights using SQL, Excel, and Power BI and Tableau.
 
 📁 Projects Overview
-🔹 1. SQL Sales Analysis Project
+
+ 1. SQL Sales Analysis Project
 
 Solved real business questions using SQL
 
@@ -14,7 +15,7 @@ Used joins, subqueries, CTEs, and aggregations
 
 📂 Folder: SQL-Project
 
-🔹 2. Excel Sales Dashboard
+ 2. Excel Sales Dashboard
 
 Built a fully interactive dashboard using Excel
 
@@ -26,7 +27,7 @@ Used Pivot Tables, Slicers & Charts
 
 📂 Folder: Excel-Dashboard
 
-🔹 3. Power BI Sales Dashboard
+3. Power BI Sales Dashboard
 
 Designed a dynamic dashboard with DAX measures
 
@@ -38,7 +39,7 @@ Visualized sales vs production cost
 
 📂 Folder: PowerBI-Dashboard
 
-🔹 4. Tableau Sales Dashboard
+ 4. Tableau Sales Dashboard
 
 Created an executive-level Tableau dashboard
 
